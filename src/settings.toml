@@ -1,0 +1,4 @@
+[storage]
+path="/media/usb/"
+datetime_format="%Y-%d-%mT%H_%M_%S"
+
